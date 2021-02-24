@@ -1,0 +1,22 @@
+[
+    {
+        "global": false,
+        "host_template_types": ["PAGE"],
+        "icon": "https://www.igomoon.com/hubfs/Images/igomoon-hubspot_agency.png",
+        "label": "Code block",
+        "smart_type": "NOT_SMART",
+        "is_available_for_new_content": true,
+        "inline_help_text": "This module is for code snippets."
+    },
+    {
+        "name": "heading",
+        "label": "Heading",
+        "required": false,
+        "locked": false,
+        "validation_regex": "",
+        "allow_new_line": false,
+        "show_emoji_picker": false,
+        "type": "text",
+        "default" : "Ptulae recubans sub tegmine fagi dolor."
+    }
+]

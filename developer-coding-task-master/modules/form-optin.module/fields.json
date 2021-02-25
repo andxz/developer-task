@@ -1,14 +1,5 @@
 [
     {
-        "global": false,
-        "host_template_types": ["PAGE"],
-        "icon": "https://www.igomoon.com/hubfs/Images/igomoon-hubspot_agency.png",
-        "label": "Code block",
-        "smart_type": "NOT_SMART",
-        "is_available_for_new_content": true,
-        "inline_help_text": "This module is for code snippets."
-    },
-    {
         "name": "heading",
         "label": "Heading",
         "required": false,
